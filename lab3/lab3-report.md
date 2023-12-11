@@ -12,7 +12,7 @@ Author: Rogozina Veronika Sergeevna
 
 Lab: Lab3
 
-Date of create: 12.12.2023
+Date of create: 10.12.2023
 
 Date of finished: -
 
