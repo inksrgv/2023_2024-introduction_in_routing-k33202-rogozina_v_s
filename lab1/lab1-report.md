@@ -88,51 +88,48 @@ Date of finished: -
 
 ## Результат сборки сети
 
-![Снимок экрана 2023-12-10 111614](https://github.com/inksrgv/itmo_web_labs/assets/94178896/1c5c18eb-c664-46c7-87c5-4fffaf327e88)
 
+![Снимок экрана 2023-12-10 111614](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/dc1d1b2d-38b0-4535-b2ce-e00074022480)
 
 
 ## Граф полученной сети
 
-![Снимок экрана 2023-12-10 174539](https://github.com/inksrgv/itmo_web_labs/assets/94178896/a7497359-7b26-4897-8405-8f3de6b68869)
-
+![Снимок экрана 2023-12-10 174539](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/ce257f0b-e490-4a78-a994-3ca95ab0ce3c)
 
 ## Конфигурация устройств
 
 ### Роутер R01
 
-![Снимок экрана 2023-12-10 172543](https://github.com/inksrgv/itmo_web_labs/assets/94178896/b108eb32-a257-42fa-a66f-c84679491a75)
+![Снимок экрана 2023-12-10 171434](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/5bb90d4c-81a3-41a0-8f4a-c25ecc71e1e0)
 
 
 ### Свитч SW01.L3.01.TEST
 
-![Снимок экрана 2023-12-10 173053](https://github.com/inksrgv/itmo_web_labs/assets/94178896/9c6fa5a2-e934-4031-ab15-7ad47ef3a0ab)
+![Снимок экрана 2023-12-10 173053](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/2a200271-9ac6-4012-9cf8-d47f2aeb70a9)
 
 
 ### Свитч SW02.L3..01.TEST
 
-![Снимок экрана 2023-12-10 173529](https://github.com/inksrgv/itmo_web_labs/assets/94178896/8123525c-7317-4dc8-a990-04b2cc216f57)
+![Снимок экрана 2023-12-10 173529](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/dc68b8f7-cc0c-4c32-9402-c729c4671120)
 
 
 ### Свитч SW02.L3..02.TEST
 
-![Снимок экрана 2023-12-10 173839](https://github.com/inksrgv/itmo_web_labs/assets/94178896/4d446e78-38e0-4129-a29e-3aeb65f6bc1e)
+![Снимок экрана 2023-12-10 173839](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/5b13e3ca-ca1c-4392-aee0-db5bb7e7a3b7)
+
 
 ## Проверка доступности
 
-![Снимок экрана 2023-12-10 173927](https://github.com/inksrgv/itmo_web_labs/assets/94178896/186ef7d5-33d3-4546-921f-7cc9f110a4e1)
+![Снимок экрана 2023-12-10 173927](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/d1680f7b-86ba-46e7-a6ad-6eb64ef3d8e4)
 
+![Снимок экрана 2023-12-10 174001](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/53122a42-d5b6-4a29-b971-c3f5651b69c4)
 
-![Снимок экрана 2023-12-10 174001](https://github.com/inksrgv/itmo_web_labs/assets/94178896/551faadf-3128-43b4-9d83-afae3042754a)
+![Снимок экрана 2023-12-10 174026](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/6ce7c446-0a3a-4bab-a391-143004ed244a)
 
+![Снимок экрана 2023-12-10 174057](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/fba36cea-9839-4943-a5af-6052c9852976)
 
-![Снимок экрана 2023-12-10 174026](https://github.com/inksrgv/itmo_web_labs/assets/94178896/a1d7aecf-8d2c-48b4-b571-633f532e1136)
+![Снимок экрана 2023-12-10 174120](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/0449ccf3-a339-4773-a18c-1c01b7442daf)
 
-
-![Снимок экрана 2023-12-10 174057](https://github.com/inksrgv/itmo_web_labs/assets/94178896/905e9a27-eac2-4db4-a9e2-ab1558d9fd74)
-
-
-![Снимок экрана 2023-12-10 174120](https://github.com/inksrgv/itmo_web_labs/assets/94178896/bd980adb-b68d-40aa-84b7-ad29a859608b)
 
 ## Вывод 
 
