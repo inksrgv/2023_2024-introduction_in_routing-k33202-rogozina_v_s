@@ -78,7 +78,8 @@ Date of finished: -
 
 ![Снимок экрана 2023-12-10 191008](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/060bf4b2-384b-4e6a-8e58-32021df1fcae)
 
-## Граф полученной сети
+## Схема полученной сети
+![Снимок экрана 2023-12-11 132025](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/126dca6b-ad94-4ce4-a9cf-9ede1ea33e94)
 
 
 ## Конфигурация устройств
