@@ -1,13 +1,13 @@
-name: laba4
-prefix: ''
+    name: laba4
+    prefix: ''
 
-mgmt:
-  network: statics
-  ipv4_subnet: 172.20.23.0/24
+    mgmt:
+    network: statics
+    ipv4_subnet: 172.20.23.0/24
 
-topology:
-  nodes:
-    R01.NY: 
+    topology:
+    nodes:
+      R01.NY: 
       kind: vr-mikrotik_ros
       image: vrnetlab/vr-routeros:6.47.9
       
@@ -44,7 +44,7 @@ topology:
       image: vrnetlab/vr-routeros:6.47.9
        
 
-  links: 
+    links: 
     - endpoints: ["R01.NY:eth1","PC2:eth1"]      
     - endpoints: ["R01.NY:eth3","R01.LND:eth3"] 
     - endpoints: ["R01.LND:eth1","R01.HKI:eth2"]
