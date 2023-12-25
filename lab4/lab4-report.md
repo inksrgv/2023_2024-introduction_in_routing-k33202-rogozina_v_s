@@ -86,6 +86,8 @@ Date of finished: -
 
 ## Граф полученной сети
 
+![Снимок экрана 2023-12-15 235642](https://github.com/inksrgv/2023_2024-introduction_in_routing-k33202-rogozina_v_s/assets/94178896/2b51501c-b53c-4d01-84fb-11d2cf26f28f)
+
 
 # Первая часть работы 
 
